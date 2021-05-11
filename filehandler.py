@@ -1,6 +1,10 @@
+# Elgin Park Secondary Online Judge (EPSOJ) - Backend
+# filehandler.py
+# May 10, 2021
 import mmap
-import time
 
+# Optimized IO, much faster than just using open()
+# Using UTF8 encoding
 def fileHandler(id, codes):
   for fileName, code in codes.items():
     binary = code.encode('utf-8')
