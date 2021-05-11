@@ -1,0 +1,74 @@
+2021-05-09 22:43:55,867 - EPSOJ - ERROR - test
+2021-05-09 23:01:46,444 - EPSOJ - ERROR - test
+2021-05-09 23:02:18,289 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:02:18,291 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:02:49,079 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:02:49,079 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:02:49,079 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:02:59,086 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:02:59,087 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:02:59,087 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:03:07,906 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:03:07,906 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:03:07,907 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:03:07,907 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:04:18,760 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:04:18,761 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:04:33,464 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:04:33,464 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:04:33,465 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:04:33,465 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:04:38,642 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:04:38,642 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:04:38,642 - EPSOJ - ERROR - <class 'TypeError'>
+2021-05-09 23:04:38,643 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:04:59,014 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:04:59,015 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:04:59,015 - EPSOJ - ERROR - <class 'TypeError'>
+2021-05-09 23:04:59,015 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:05:05,188 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:05:05,189 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:05:05,189 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:05:05,189 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:05:12,775 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:05:12,776 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:05:12,776 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:05:12,776 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:05:49,995 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:05:49,996 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:05:49,996 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:05:49,996 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:06:05,940 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:06:05,941 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:06:05,941 - EPSOJ - ERROR - <class 'NameError'>
+2021-05-09 23:06:05,941 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:07:06,133 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:07:07,350 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:12:24,939 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:12:26,584 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-09 23:12:37,880 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-09 23:12:37,880 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-09 23:12:37,881 - EPSOJ - ERROR - <class 'TypeError'>
+2021-05-09 23:12:37,881 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:04:10,707 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:05:13,794 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:05:15,260 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:05:52,322 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:05:53,570 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:06:20,975 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:06:21,330 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:06:22,372 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:06:24,620 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:14:10,887 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:15:47,848 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:18:40,012 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 18:18:41,374 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-10 18:28:31,455 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-10 22:25:27,672 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:42:27,841 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:42:46,060 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:43:00,934 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:44:03,581 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:47:36,688 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:53:29,125 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-10 22:55:32,792 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
