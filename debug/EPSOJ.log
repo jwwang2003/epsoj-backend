@@ -1,74 +1,165 @@
-2021-05-09 22:43:55,867 - EPSOJ - ERROR - test
-2021-05-09 23:01:46,444 - EPSOJ - ERROR - test
-2021-05-09 23:02:18,289 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:02:18,291 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:02:49,079 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:02:49,079 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:02:49,079 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:02:59,086 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:02:59,087 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:02:59,087 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:03:07,906 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:03:07,906 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:03:07,907 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:03:07,907 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:04:18,760 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:04:18,761 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:04:33,464 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:04:33,464 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:04:33,465 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:04:33,465 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:04:38,642 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:04:38,642 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:04:38,642 - EPSOJ - ERROR - <class 'TypeError'>
-2021-05-09 23:04:38,643 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:04:59,014 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:04:59,015 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:04:59,015 - EPSOJ - ERROR - <class 'TypeError'>
-2021-05-09 23:04:59,015 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:05:05,188 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:05:05,189 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:05:05,189 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:05:05,189 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:05:12,775 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:05:12,776 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:05:12,776 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:05:12,776 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:05:49,995 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:05:49,996 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:05:49,996 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:05:49,996 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:06:05,940 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:06:05,941 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:06:05,941 - EPSOJ - ERROR - <class 'NameError'>
-2021-05-09 23:06:05,941 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:07:06,133 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:07:07,350 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:12:24,939 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:12:26,584 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-09 23:12:37,880 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-09 23:12:37,880 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
-2021-05-09 23:12:37,881 - EPSOJ - ERROR - <class 'TypeError'>
-2021-05-09 23:12:37,881 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:04:10,707 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:05:13,794 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:05:15,260 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:05:52,322 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:05:53,570 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:06:20,975 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:06:21,330 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:06:22,372 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:06:24,620 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:14:10,887 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:15:47,848 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:18:40,012 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 18:18:41,374 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
-2021-05-10 18:28:31,455 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
-2021-05-10 22:25:27,672 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:42:27,841 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:42:46,060 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:43:00,934 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:44:03,581 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:47:36,688 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:53:29,125 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
-2021-05-10 22:55:32,792 - EPSOJ - INFO - Compilers Available: dict_keys(['cpp', 'java'])
+2021-05-12 22:44:24,202 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-12 22:44:24,205 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-12 22:44:24,205 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10e629640>)
+2021-05-12 22:44:24,205 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:35:34,995 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:44:36,619 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:44:36,622 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:44:36,681 - EPSOJ - INFO - Connection to NodeJS established UID: RaDQ8JBuu3ygI16wAAAA
+2021-05-13 08:44:37,655 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:44:40,449 - EPSOJ - INFO - Connection to NodeJS established UID: zbrEHlJXOdvmkmKIAAAC
+2021-05-13 08:44:41,723 - EPSOJ - INFO - [PROCESSING] my_service
+2021-05-13 08:45:20,852 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:45:20,861 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:45:20,862 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x1108d9380>)
+2021-05-13 08:45:20,862 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:45:36,151 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:45:36,152 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:45:36,173 - EPSOJ - INFO - Connection to NodeJS established UID: Iz6oJVVSpJRTiL-7AAAE
+2021-05-13 08:45:36,547 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:47:40,021 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:47:40,025 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:47:40,025 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10ce94c00>)
+2021-05-13 08:47:40,025 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:47:41,597 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:47:41,598 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:47:41,619 - EPSOJ - INFO - Connection to NodeJS established UID: EK9QofySs5kwCdirAAAG
+2021-05-13 08:47:42,040 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:47:53,353 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:47:53,357 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:47:53,357 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10fa3b900>)
+2021-05-13 08:47:53,358 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:47:54,881 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:47:54,882 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:47:54,912 - EPSOJ - INFO - Connection to NodeJS established UID: 1nJS3fc0hNbASdxsAAAI
+2021-05-13 08:47:55,412 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:50:59,124 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:50:59,131 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:50:59,131 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x11023d200>)
+2021-05-13 08:50:59,131 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:51:00,750 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:51:00,750 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:51:00,771 - EPSOJ - INFO - Connection to NodeJS established UID: wiieX_NoFytsHdkVAAAK
+2021-05-13 08:51:01,144 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:52:49,100 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:52:49,104 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:52:49,104 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x103b25300>)
+2021-05-13 08:52:49,104 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:52:50,571 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:52:50,571 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:52:50,597 - EPSOJ - INFO - Connection to NodeJS established UID: 8FyVigEI-rolBsQ8AAAM
+2021-05-13 08:52:51,070 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:55:33,664 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:55:33,667 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:55:33,668 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10792e8c0>)
+2021-05-13 08:55:33,668 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:55:34,959 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:55:34,960 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:55:34,979 - EPSOJ - INFO - Connection to NodeJS established UID: E2GuflPxlu60I8bHAAAO
+2021-05-13 08:55:35,379 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:55:59,268 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:55:59,281 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:55:59,281 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10a4551c0>)
+2021-05-13 08:55:59,282 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:56:00,525 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:56:00,526 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:56:00,549 - EPSOJ - INFO - Connection to NodeJS established UID: JV9kSnmTsTT_3ySUAAAQ
+2021-05-13 08:56:01,046 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:56:06,156 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:56:06,160 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:56:06,160 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10ba25200>)
+2021-05-13 08:56:06,160 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:56:26,051 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:56:26,051 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:56:26,081 - EPSOJ - INFO - Connection to NodeJS established UID: G8zlShg6jAr1wht-AAAS
+2021-05-13 08:56:26,542 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 08:56:41,679 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 08:56:41,682 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 08:56:41,683 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10d261340>)
+2021-05-13 08:56:41,683 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 08:59:36,229 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 08:59:36,229 - EPSOJ - INFO - Using port: 1314
+2021-05-13 08:59:36,258 - EPSOJ - INFO - Connection to NodeJS established UID: AmohdbGDNeF2cP0oAAAU
+2021-05-13 08:59:36,674 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 09:18:02,315 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 09:18:02,319 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 09:18:02,319 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x104340400>)
+2021-05-13 09:18:02,319 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:04:34,300 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:04:34,301 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:04:34,322 - EPSOJ - INFO - Connection to NodeJS established UID: 1zTfnC-GZMcXCC25AAAW
+2021-05-13 10:06:14,641 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:06:14,645 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:06:14,646 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10feb94c0>)
+2021-05-13 10:06:14,646 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:06:15,905 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:06:15,905 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:06:15,923 - EPSOJ - INFO - Connection to NodeJS established UID: GAQ-WWk-eQ2t9FWJAAAY
+2021-05-13 10:07:49,169 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:07:49,173 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:07:49,174 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x101a3b640>)
+2021-05-13 10:07:49,174 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:07:51,579 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:07:51,580 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:07:51,601 - EPSOJ - INFO - Connection to NodeJS established UID: xdKllS992CWODwbSAAAa
+2021-05-13 10:07:51,999 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:09:50,371 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:09:50,375 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:09:50,375 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10b46d1c0>)
+2021-05-13 10:09:50,375 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:09:51,361 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:09:51,362 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:09:51,380 - EPSOJ - INFO - Connection to NodeJS established UID: vEFGxpqll83K7XNQAAAc
+2021-05-13 10:09:51,784 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:10:35,838 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:10:35,843 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:10:35,843 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x1087a6540>)
+2021-05-13 10:10:35,844 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:10:36,919 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:10:36,920 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:10:36,937 - EPSOJ - INFO - Connection to NodeJS established UID: FlzguTNyDRyIHALrAAAe
+2021-05-13 10:10:37,354 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:10:52,880 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:10:52,883 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:10:52,884 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10273b2c0>)
+2021-05-13 10:10:52,884 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:10:54,178 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:10:54,178 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:10:54,197 - EPSOJ - INFO - Connection to NodeJS established UID: hanaaW7xd0SIpVz9AAAg
+2021-05-13 10:10:54,572 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:23:21,440 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:23:21,444 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:23:21,444 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x1052744c0>)
+2021-05-13 10:23:21,444 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:23:25,244 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:23:25,245 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:23:25,262 - EPSOJ - INFO - Connection to NodeJS established UID: R5XpwsjJbFdndViSAAAi
+2021-05-13 10:23:25,616 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:27:04,554 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:27:04,557 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:27:04,558 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10f036700>)
+2021-05-13 10:27:04,558 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:27:06,276 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:27:06,277 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:27:06,294 - EPSOJ - INFO - Connection to NodeJS established UID: Xyz2ZDdb70IXiGSbAAAk
+2021-05-13 10:27:06,664 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:27:13,064 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:27:13,067 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:27:13,067 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10a3f8640>)
+2021-05-13 10:27:13,067 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:27:13,988 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:27:13,988 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:27:14,006 - EPSOJ - INFO - Connection to NodeJS established UID: p8OwRbX_aGg0JfuqAAAm
+2021-05-13 10:27:14,398 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 10:31:34,044 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 10:31:34,055 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 10:31:34,055 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10788c3c0>)
+2021-05-13 10:31:34,055 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes
+2021-05-13 10:33:05,688 - EPSOJ - INFO - [STARTUP] Starting EPSOJ Backend
+2021-05-13 10:33:05,688 - EPSOJ - INFO - Using port: 1314
+2021-05-13 10:33:05,709 - EPSOJ - INFO - Connection to NodeJS established UID: vcqT8QFQmL9_ZX6mAAAo
+2021-05-13 10:33:06,066 - EPSOJ - INFO - [PROCESSING] Submission-632294
+2021-05-13 11:05:48,576 - EPSOJ - INFO - Backend disconnected from NodeJS
+2021-05-13 11:05:48,582 - EPSOJ - ERROR - [ERROR] Uh oh! Something went wrong :/
+2021-05-13 11:05:48,582 - EPSOJ - ERROR - (<class 'RuntimeError'>, RuntimeError('Event loop stopped before Future completed.'), <traceback object at 0x10cb32840>)
+2021-05-13 11:05:48,583 - EPSOJ - INFO - [SHUTDOWN] Stopping all processes

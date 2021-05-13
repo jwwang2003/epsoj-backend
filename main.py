@@ -2,18 +2,20 @@
 # main.py ENTRY
 # May 6, 2021
 
-from server import Server
+from client import Client
 import sys
-import debugging.logger as logger
+import os
+import debug.logger as logger
 
 if __name__ == '__main__':
-  PORT = 5000   # Pre-defined port
+  PORT = os.getenv('PORT') or 1314   # Pre-defined port
 
   try:
     logger.info('[STARTUP] Starting EPSOJ Backend')
-    server = Server(PORT)
+    logger.info(f'Using port: {PORT}')
+    Client(PORT)
   except:
     logger.error('[ERROR] Uh oh! Something went wrong :/')
-    logger.error(sys.exc_info()[0])
+    logger.error(sys.exc_info())
   finally:
     logger.info('[SHUTDOWN] Stopping all processes')
